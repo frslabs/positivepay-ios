@@ -1,3 +1,9 @@
+
+## **v2.0.1** - *10-06-2021*
+- Updated with letest version of xcode
+- Bug fixes
+
+
 ## **v2.0.0** - *05-03-2021*
  **Initial Release**
  
