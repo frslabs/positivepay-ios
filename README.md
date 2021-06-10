@@ -1,7 +1,7 @@
 # POSITIVE-PAY iOS SDK
 ![version](https://img.shields.io/badge/version-v1.0.0-blue) ```Online```
 
-![version](https://img.shields.io/badge/version-v2.0.0-blue) ```Offline```
+![version](https://img.shields.io/badge/version-v2.0.1-blue) ```Offline```
 
 
 The Positive pay iOS SDK is a real-time MICR code capture for bank cheques in iOS.
@@ -58,7 +58,7 @@ use_frameworks!
 pod 'PositivePay', '1.0.0' 
 
 //Offline
-pod 'PositivePay', '2.0.0' 
+pod 'PositivePay', '2.0.1' 
 pod 'TesseractOCRiOS'
 
 end
